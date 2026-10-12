@@ -1,0 +1,21 @@
+# Dataset besar / hasil generate
+images/
+datasetsplit/
+5fold_dataset/
+5fold_augmented/
+outputs/
+outputs_resnet18/
+training_results_salia_v2/
+
+# Model & cache
+*.pth
+*.pt
+*.ckpt
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
