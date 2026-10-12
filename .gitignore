@@ -1,5 +1,4 @@
-# Dataset besar / hasil generate
-images/
+# Hasil generate (bisa dibuat ulang)
 datasetsplit/
 5fold_dataset/
 5fold_augmented/
